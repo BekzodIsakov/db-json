@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Fresh Foam X 1080v12",
       "type": "Men's Running",
-      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make, it’s also the most versatile. The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train.",
+      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make, it’s also the most versatile. ",
       "price": 159.99,
       "category": "shoes",
       "imageSrc": "https://nb.scene7.com/is/image/NB/m108012n_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "FuelCell Propel v4",
       "type": "Men's Running",
-      "description": "New and experienced runners alike will appreciate the underfoot ride and innovative technology packed into the New Balance FuelCell Propel v4. Featuring a thick FuelCell midsole combined with a TPU plate, this running shoe is designed to maximize comfort and traction to help keep you moving at top speeds.",
+      "description": "New and experienced runners alike will appreciate the underfoot ride and innovative technology packed into the New Balance FuelCell Propel v4. ",
       "price": 109.99,
       "category": "shoes",
       "imageSrc": "https://nb.scene7.com/is/image/NB/mfcprlw4_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
@@ -58,7 +58,7 @@
       "id": 8,
       "name": "Fresh Foam X 1080v12",
       "type": "Men's Running",
-      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make, it’s also the most versatile. The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train.",
+      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make.",
       "price": 159.99,
       "category": "shoes",
       "imageSrc": "https://nb.scene7.com/is/image/NB/m108012n_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
@@ -148,7 +148,7 @@
       "id": 18,
       "name": "FuelCell Propel v4",
       "type": "Men's Running",
-      "description": "New and experienced runners alike will appreciate the underfoot ride and innovative technology packed into the New Balance FuelCell Propel v4. Featuring a thick FuelCell midsole combined with a TPU plate, this running shoe is designed to maximize comfort and traction to help keep you moving at top speeds.",
+      "description": "New and experienced runners alike will appreciate the underfoot ride and innovative technology packed into the New Balance FuelCell Propel v4.",
       "price": 109.99,
       "category": "shoes",
       "imageSrc": "https://nb.scene7.com/is/image/NB/mfcprlw4_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
@@ -175,7 +175,25 @@
       "id": 22,
       "name": "Fresh Foam X 1080v12",
       "type": "Men's Running",
-      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make, it’s also the most versatile. The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train.",
+      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make, it’s also the most versatile. ",
+      "price": 159.99,
+      "category": "shoes",
+      "imageSrc": "https://nb.scene7.com/is/image/NB/m108012n_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+    },
+    {
+      "id": 23,
+      "name": "V Neck Smoking",
+      "type": "Waist dress",
+      "description": "This smocked-waist dress is both fun and flattering. With a swishy midi-skirt and a flattering v-neck, you willl absolutely want this dress as part of your new wardrobe.",
+      "price": 49.99,
+      "category": "dress",
+      "imageSrc": "https://www.sweetsaltclothing.com/mm5/graphics/00000001/5/V_Neck_Smocking_Waist_Dress_Orange_Ivory-358924.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Fresh Foam X 1080v12",
+      "type": "Men's Running",
+      "description": "If we only made one running shoe, that shoe would be the 1080. What makes the 1080 unique isn’t just that it’s the best running shoe we make.",
       "price": 159.99,
       "category": "shoes",
       "imageSrc": "https://nb.scene7.com/is/image/NB/m108012n_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
